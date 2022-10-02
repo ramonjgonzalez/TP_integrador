@@ -1,0 +1,85 @@
+
+
+.barraSuperior{
+    background-color: rgb(51, 58, 64);
+}   
+
+.textoBlanco{
+    color: white;
+}
+
+.textoVerde{
+    color: #2CA546
+}
+
+.imagenCentral{
+    width: 100%;
+    height: 600px;
+    background-image: url('../images/hawaii.jpg');
+    background-size: 100%;
+    background-position: bottom;
+}
+
+.cajita{
+    padding-top: 250px
+    ;
+}
+
+.verdecito{
+    background-color: rgb(39, 168, 68);
+}
+
+.distribucionTarjetas{
+    width: 75%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    
+}
+
+.div4{
+    margin: 0;
+    margin-top: 310px;
+
+}
+
+.sinMargen{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+
+}
+
+.box {
+    border: 5px;
+    height: 380px;
+    width: 55%;
+    margin: auto;
+  }
+
+  .enLinea{
+    flex-direction: row;
+
+  }
+
+  .btn-enviar{
+    background-color: #96C93E;
+  }
+
+  .ancho1{
+    width: 30%;
+    margin-left: 60px;
+  }
+
+  .ancho2{
+    width: 70%;
+  }
+
+  .barraInferior{
+    background: linear-gradient(to right, #1C3643, #1E5372);
+  }
+
+  .elementoInferior{
+    width: 50px;
+  }
